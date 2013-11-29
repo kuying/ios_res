@@ -40,3 +40,6 @@
 [submodule "src/code4app/2.chat/UIBubbleTableView"]
 	path = src/code4app/2.chat/UIBubbleTableView
 	url = https://github.com/AlexBarinov/UIBubbleTableView.git
+[submodule "src/SDWebImage"]
+	path = src/SDWebImage
+	url = https://github.com/rs/SDWebImage.git
