@@ -1,0 +1,6 @@
+[submodule "src/fundamentals"]
+	path = src/fundamentals
+	url = https://github.com/mattneub/Programming-iOS-Book-Examples.git
+[submodule "src/cookbook"]
+	path = src/cookbook
+	url = https://github.com/oreillymedia/iOS_7_Programming_Cookbook.git
