@@ -25,6 +25,9 @@
 [submodule "src/code4app/1.guide/MDCFocusView"]
 	path = src/code4app/1.guide/MDCFocusView
 	url = https://github.com/modocache/MDCFocusView.git
+[submodule "src/code4app/1.guide/MYBlurIntroductionView"]
+	path = src/code4app/1.guide/MYBlurIntroductionView
+	url = https://github.com/MatthewYork/MYBlurIntroductionView.git
 [submodule "src/code4app/2.chat/ChatMessageTableViewController"]
 	path = src/code4app/2.chat/ChatMessageTableViewController
 	url = https://github.com/EvoRobin/ChatMessageTableViewController.git
