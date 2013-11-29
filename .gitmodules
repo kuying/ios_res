@@ -4,3 +4,24 @@
 [submodule "src/cookbook"]
 	path = src/cookbook
 	url = https://github.com/oreillymedia/iOS_7_Programming_Cookbook.git
+[submodule "src/code4app/1.guide/EAIntroView"]
+	path = src/code4app/1.guide/EAIntroView
+	url = https://github.com/ealeksandrov/EAIntroView.git
+[submodule "src/code4app/1.guide/WSCoachMarksView"]
+	path = src/code4app/1.guide/WSCoachMarksView
+	url = https://github.com/workshirt/WSCoachMarksView.git
+[submodule "src/code4app/1.guide/iPhone-IntroductionTutorial"]
+	path = src/code4app/1.guide/iPhone-IntroductionTutorial
+	url = https://github.com/MatthewYork/iPhone-IntroductionTutorial.git
+[submodule "src/code4app/1.guide/DRDynamicSlideShow"]
+	path = src/code4app/1.guide/DRDynamicSlideShow
+	url = https://github.com/Dromaguirre/DRDynamicSlideShow.git
+[submodule "src/code4app/1.guide/JazzHands"]
+	path = src/code4app/1.guide/JazzHands
+	url = https://github.com/IFTTT/JazzHands.git
+[submodule "src/code4app/1.guide/EMHint"]
+	path = src/code4app/1.guide/EMHint
+	url = https://github.com/mcconkiee/EMHint.git
+[submodule "src/code4app/1.guide/MDCFocusView"]
+	path = src/code4app/1.guide/MDCFocusView
+	url = https://github.com/modocache/MDCFocusView.git
