@@ -46,3 +46,12 @@
 [submodule "src/SDWebImage"]
 	path = src/SDWebImage
 	url = https://github.com/rs/SDWebImage.git
+[submodule "src/code4app/3.text_validator/US2FormValidator"]
+	path = src/code4app/3.text_validator/US2FormValidator
+	url = https://github.com/ustwo/US2FormValidator.git
+[submodule "src/code4app/3.text_validator/BZGFormField"]
+	path = src/code4app/3.text_validator/BZGFormField
+	url = https://github.com/benzguo/BZGFormField.git
+[submodule "src/code4app/3.text_validator/iOSValidator"]
+	path = src/code4app/3.text_validator/iOSValidator
+	url = https://github.com/07cs07/iOSValidator.git
