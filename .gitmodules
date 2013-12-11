@@ -64,6 +64,6 @@
 [submodule "src/code4app/4.tableview/TQMultistageTableView"]
 	path = src/code4app/4.tableview/TQMultistageTableView
 	url = https://github.com/TinyQ/TQMultistageTableView.git
-[submodule "SORelativeDateTransformer"]
-	path = SORelativeDateTransformer
+[submodule "src/SORelativeDateTransformer"]
+	path = src/SORelativeDateTransformer
 	url = https://github.com/billgarrison/SORelativeDateTransformer.git
