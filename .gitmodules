@@ -55,3 +55,15 @@
 [submodule "src/code4app/3.text_validator/iOSValidator"]
 	path = src/code4app/3.text_validator/iOSValidator
 	url = https://github.com/07cs07/iOSValidator.git
+[submodule "src/code4app/4.tableview/MultiTablesView"]
+	path = src/code4app/4.tableview/MultiTablesView
+	url = https://github.com/Zedenem/MultiTablesView.git
+[submodule "src/code4app/4.tableview/RATreeView"]
+	path = src/code4app/4.tableview/RATreeView
+	url = https://github.com/Augustyniak/RATreeView.git
+[submodule "src/code4app/4.tableview/TQMultistageTableView"]
+	path = src/code4app/4.tableview/TQMultistageTableView
+	url = https://github.com/TinyQ/TQMultistageTableView.git
+[submodule "SORelativeDateTransformer"]
+	path = SORelativeDateTransformer
+	url = https://github.com/billgarrison/SORelativeDateTransformer.git
