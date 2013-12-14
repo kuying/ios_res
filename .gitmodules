@@ -67,3 +67,9 @@
 [submodule "src/SORelativeDateTransformer"]
 	path = src/SORelativeDateTransformer
 	url = https://github.com/billgarrison/SORelativeDateTransformer.git
+[submodule "src/AcaniChat"]
+	path = src/AcaniChat
+	url = https://github.com/acani/AcaniChat.git
+[submodule "src/code4app/5.sample/XWQiuShiBaiKe"]
+	path = src/code4app/5.sample/XWQiuShiBaiKe
+	url = https://github.com/xwren362922604/XWQiuShiBaiKe.git
