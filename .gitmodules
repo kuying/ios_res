@@ -73,3 +73,15 @@
 [submodule "src/code4app/5.sample/XWQiuShiBaiKe"]
 	path = src/code4app/5.sample/XWQiuShiBaiKe
 	url = https://github.com/xwren362922604/XWQiuShiBaiKe.git
+[submodule "src/code4app/6.images/FGallery-iPhone"]
+	path = src/code4app/6.images/FGallery-iPhone
+	url = https://github.com/gdavis/FGallery-iPhone.git
+[submodule "src/code4app/6.images/REPhotoCollectionController"]
+	path = src/code4app/6.images/REPhotoCollectionController
+	url = https://github.com/romaonthego/REPhotoCollectionController.git
+[submodule "src/code4app/6.images/MWPhotoBrowser"]
+	path = src/code4app/6.images/MWPhotoBrowser
+	url = https://github.com/mwaterfall/MWPhotoBrowser.git
+[submodule "src/code4app/6.images/KTPhotoBrowser"]
+	path = src/code4app/6.images/KTPhotoBrowser
+	url = https://github.com/kirbyt/KTPhotoBrowser.git
