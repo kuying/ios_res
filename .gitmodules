@@ -85,3 +85,42 @@
 [submodule "src/code4app/6.images/KTPhotoBrowser"]
 	path = src/code4app/6.images/KTPhotoBrowser
 	url = https://github.com/kirbyt/KTPhotoBrowser.git
+[submodule "src/code4app/7.kekyboard/RFKeyboardToolbar"]
+	path = src/code4app/7.kekyboard/RFKeyboardToolbar
+	url = https://github.com/rexfinn/RFKeyboardToolbar.git
+[submodule "src/code4app/7.kekyboard/TPKeyboardAvoiding"]
+	path = src/code4app/7.kekyboard/TPKeyboardAvoiding
+	url = https://github.com/michaeltyson/TPKeyboardAvoiding.git
+[submodule "src/code4app/7.kekyboard/TSEmojiView"]
+	path = src/code4app/7.kekyboard/TSEmojiView
+	url = https://github.com/fly2wind/TSEmojiView.git
+[submodule "src/code4app/7.kekyboard/KOKeyboard"]
+	path = src/code4app/7.kekyboard/KOKeyboard
+	url = https://github.com/adamhoracek/KOKeyboard.git
+[submodule "src/code4app/7.kekyboard/UIKeyboardCoView"]
+	path = src/code4app/7.kekyboard/UIKeyboardCoView
+	url = https://github.com/lupidan/UIKeyboardCoView.git
+[submodule "src/code4app/7.kekyboard/FPNumberPadView"]
+	path = src/code4app/7.kekyboard/FPNumberPadView
+	url = https://github.com/fprosper/FPNumberPadView.git
+[submodule "src/code4app/7.kekyboard/ZenKeyboard"]
+	path = src/code4app/7.kekyboard/ZenKeyboard
+	url = https://github.com/nickevin/ZenKeyboard.git
+[submodule "src/code4app/7.kekyboard/FaceBoardDome"]
+	path = src/code4app/7.kekyboard/FaceBoardDome
+	url = https://github.com/bluemood/FaceBoardDome.git
+[submodule "src/code4app/7.kekyboard/EMKeyboardBarTextField"]
+	path = src/code4app/7.kekyboard/EMKeyboardBarTextField
+	url = https://github.com/erwinmaza/EMKeyboardBarTextField.git
+[submodule "src/code4app/7.kekyboard/DLIDEKeyboard"]
+	path = src/code4app/7.kekyboard/DLIDEKeyboard
+	url = https://github.com/garnett/DLIDEKeyboard.git
+[submodule "src/code4app/7.kekyboard/IQKeyboardManager"]
+	path = src/code4app/7.kekyboard/IQKeyboardManager
+	url = https://github.com/hackiftekhar/IQKeyboardManager.git
+[submodule "src/code4app/7.kekyboard/WUEmoticonsKeyboard"]
+	path = src/code4app/7.kekyboard/WUEmoticonsKeyboard
+	url = https://github.com/YuAo/WUEmoticonsKeyboard.git
+[submodule "src/code4app/7.kekyboard/Custom-iOS-Keyboards"]
+	path = src/code4app/7.kekyboard/Custom-iOS-Keyboards
+	url = https://github.com/kulpreetchilana/Custom-iOS-Keyboards.git
