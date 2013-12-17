@@ -124,3 +124,9 @@
 [submodule "src/code4app/7.kekyboard/Custom-iOS-Keyboards"]
 	path = src/code4app/7.kekyboard/Custom-iOS-Keyboards
 	url = https://github.com/kulpreetchilana/Custom-iOS-Keyboards.git
+[submodule "src/code4app/8.placeholder_text/CBTextView"]
+	path = src/code4app/8.placeholder_text/CBTextView
+	url = https://github.com/6david9/CBTextView.git
+[submodule "src/code4app/8.placeholder_text/GCPlaceholderTextView"]
+	path = src/code4app/8.placeholder_text/GCPlaceholderTextView
+	url = https://github.com/gcamp/GCPlaceholderTextView.git
