@@ -130,3 +130,21 @@
 [submodule "src/code4app/8.placeholder_text/GCPlaceholderTextView"]
 	path = src/code4app/8.placeholder_text/GCPlaceholderTextView
 	url = https://github.com/gcamp/GCPlaceholderTextView.git
+[submodule "src/code4app/9.image_picker/QBImagePickerController"]
+	path = src/code4app/9.image_picker/QBImagePickerController
+	url = https://github.com/questbeat/QBImagePickerController.git
+[submodule "src/code4app/10.pull_refresh/GIFRefreshControl"]
+	path = src/code4app/10.pull_refresh/GIFRefreshControl
+	url = https://github.com/cyndibaby905/GIFRefreshControl.git
+[submodule "src/code4app/10.pull_refresh/QBRefreshControl"]
+	path = src/code4app/10.pull_refresh/QBRefreshControl
+	url = https://github.com/questbeat/QBRefreshControl.git
+[submodule "src/code4app/10.pull_refresh/PullToRefresh"]
+	path = src/code4app/10.pull_refresh/PullToRefresh
+	url = https://github.com/leah/PullToRefresh.git
+[submodule "src/code4app/10.pull_refresh/WaterFlow"]
+	path = src/code4app/10.pull_refresh/WaterFlow
+	url = https://github.com/yangjw/WaterFlow.git
+[submodule "src/code4app/10.pull_refresh/EGOTableViewPullRefresh"]
+	path = src/code4app/10.pull_refresh/EGOTableViewPullRefresh
+	url = https://github.com/enormego/EGOTableViewPullRefresh.git
