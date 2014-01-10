@@ -148,3 +148,9 @@
 [submodule "src/code4app/10.pull_refresh/EGOTableViewPullRefresh"]
 	path = src/code4app/10.pull_refresh/EGOTableViewPullRefresh
 	url = https://github.com/enormego/EGOTableViewPullRefresh.git
+[submodule "src/code4app/7.kekyboard/GrowingTextView"]
+	path = src/code4app/7.kekyboard/GrowingTextView
+	url = https://github.com/HansPinckaers/GrowingTextView.git
+[submodule "src/code4app/7.kekyboard/inputtoolbar"]
+	path = src/code4app/7.kekyboard/inputtoolbar
+	url = https://github.com/brandonhamilton/inputtoolbar.git
